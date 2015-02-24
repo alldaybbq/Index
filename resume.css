@@ -1,0 +1,40 @@
+body {font-family: Calibri;
+	font-size: 12px;
+	background-color: #C0C0C0;
+}
+
+header {text-align: center;
+		margin: 25px;
+}
+#name {font-size: 18px;
+	font-weight: bold;
+}
+#address {font-size: 14px;
+}
+#email {font-size: 12px;
+}
+
+/* line graphic */
+div {margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	text-align: center;
+	background-color: black;
+	height: 1px;
+	width: 600px;
+}
+
+table {margin: auto;
+}
+
+h1 {font-size: 14px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.place {font-weight: bold;
+}
+
+.pos {font-style: italic;
+		margin: 0px;
+}
