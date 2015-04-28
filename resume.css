@@ -14,8 +14,7 @@ header {text-align: center;
 #email {font-size: 12px;
 }
 
-/* line graphic */
-div {margin: auto;
+.line {margin: auto;
 	margin-top: 25px;
 	margin-bottom: 25px;
 	text-align: center;
@@ -24,10 +23,25 @@ div {margin: auto;
 	width: 600px;
 }
 
-table {margin: auto;
+.lc {height: 300px;
+	width: 700px;
+	margin: auto;
+}
+.mc {height: 100px;
+	width: 700px;
+	margin:auto;
+}
+.time{height: 50px;
+	width: 200px;
+	float: left;
+}
+.job{height: 50px;
+	width: 300px;
+	margin: auto;
 }
 
-h1 {font-size: 14px;
+h1 {margin-bottom: 10px;
+	font-size: 14px;
 	font-weight: bold;
 	font-style: italic;
 }
